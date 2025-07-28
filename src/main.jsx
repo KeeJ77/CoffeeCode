@@ -11,7 +11,7 @@ createRoot(document.getElementById('root')).render(
   <StrictMode>
     {/* <App/> */}
     {/* <Onboarding /> */}
-    <SignIn/>
-    {/* <SignUp/> */}
+    {/* <SignIn/> */}
+    <SignUp/>
   </StrictMode>,
 )
